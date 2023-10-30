@@ -16,7 +16,7 @@
 #### Instaling dependecies:
 1. **Access the project directory:**
   ```bash
-     cd crud-test-project
+     cd Ejercicio2CRUDLaravel
      composer install
      cp .env.example .env
      php artisan key:generate
